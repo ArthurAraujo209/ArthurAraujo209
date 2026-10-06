@@ -24,6 +24,7 @@ Sou estudante de **Técnico Integrado em Informática** e desenvolvedor apaixona
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![wakatime](https://wakatime.com/badge/user/6e1b478f-2843-4443-8be7-92e13533fe80.svg)](https://wakatime.com/@6e1b478f-2843-4443-8be7-92e13533fe80)
 
 </div>
 
