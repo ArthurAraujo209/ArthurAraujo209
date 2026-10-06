@@ -49,11 +49,19 @@ Também desenvolvo projetos independentes e soluções para pequenos negócios, 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAraujo209&layout=compact&langs_count=8&theme=tokyonight"/>
 
+<div align="center">
+
+<a href="https://wakatime.com/">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=6e1b478f-2843-4443-8be7-92e13533fe80&theme=tokyonight&layout=compact" />
+</a>
+
+</div>
+
 </div>
 
 ## 📫 Contato
 
-- Instagram: **[@arthuraraujo_dev](https://instagram.com/arthuraraujo_dev)**
+- Instagram: **[@arthur.araujo_dev](https://instagram.com/arthur.araujo_dev)**
 - GitHub: **[@ArthurAraujo209](https://github.com/ArthurAraujo209)**
 
 ---
